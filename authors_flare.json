@@ -1,0 +1,2559 @@
+{ "name" : "root", "id": 0, "children" : [
+{ "name" : "samples/timeScale/combo-time-scale.html", "id": 1, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 2, "size" : 4}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 3, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 4, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 5, "size" : 5}
+,
+{ "name" : "robert@rbecker.eu", "id": 6, "size" : 1}
+]}
+,
+{ "name" : "", "id": 7, "children" : [
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 8, "size" : 1}
+]}
+,
+{ "name" : "docs/00-Getting-Started.md", "id": 9, "children" : [
+{ "name" : "james@bluebaytravel.co.uk", "id": 10, "size" : 1}
+,
+{ "name" : "nick@nickdownie.com", "id": 11, "size" : 1}
+,
+{ "name" : "robin.galmin@gmail.com", "id": 12, "size" : 2}
+,
+{ "name" : "me@fanofyan.com", "id": 13, "size" : 1}
+,
+{ "name" : "ben@gesoff.uk", "id": 14, "size" : 1}
+,
+{ "name" : "wcatron@catrondevelopment.com", "id": 15, "size" : 2}
+,
+{ "name" : "eunicekokor@users.noreply.github.com", "id": 16, "size" : 1}
+,
+{ "name" : "mic.gallego@gmail.com", "id": 17, "size" : 1}
+,
+{ "name" : "bgitarts@gmail.com", "id": 18, "size" : 1}
+,
+{ "name" : "enumag@gmail.com", "id": 19, "size" : 1}
+,
+{ "name" : "daan.j.demeyer@gmail.com", "id": 20, "size" : 3}
+,
+{ "name" : "daniel@chestertondevelopment.com", "id": 21, "size" : 1}
+,
+{ "name" : "akagroundhog@gmail.com", "id": 22, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 23, "size" : 11}
+,
+{ "name" : "nils@script-solution.de", "id": 24, "size" : 1}
+,
+{ "name" : "derek@derekperkins.com", "id": 25, "size" : 2}
+,
+{ "name" : "hello@nickdownie.com", "id": 26, "size" : 5}
+,
+{ "name" : "pratyushmittal@gmail.com", "id": 27, "size" : 1}
+,
+{ "name" : "me@levithomason.com", "id": 28, "size" : 1}
+,
+{ "name" : "mparramont@gmail.com", "id": 29, "size" : 1}
+,
+{ "name" : "tylerromeo@gmail.com", "id": 30, "size" : 1}
+,
+{ "name" : "mutsmu@gmail.com", "id": 31, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 32, "size" : 32}
+,
+{ "name" : "github.com@phor.net", "id": 33, "size" : 4}
+,
+{ "name" : "paulmasson@comcast.net", "id": 34, "size" : 1}
+,
+{ "name" : "achichenin@dataart.com", "id": 35, "size" : 1}
+,
+{ "name" : "mathiask@hotmail.de", "id": 36, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 37, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 38, "size" : 19}
+,
+{ "name" : "sam@ticketline.co.uk", "id": 39, "size" : 1}
+]}
+,
+{ "name" : "src/Chart.Core.Line.js", "id": 40, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 41, "size" : 2}
+]}
+,
+{ "name" : "src/core/core.tooltip.js", "id": 42, "children" : [
+{ "name" : "pascoualito@gmail.com", "id": 43, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 44, "size" : 27}
+,
+{ "name" : "derek@derekperkins.com", "id": 45, "size" : 3}
+,
+{ "name" : "jaco@ngear.nl", "id": 46, "size" : 2}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 47, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 48, "size" : 22}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 49, "size" : 2}
+,
+{ "name" : "mathiask@hotmail.de", "id": 50, "size" : 1}
+,
+{ "name" : "davis@blackbird.am", "id": 51, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 52, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 53, "size" : 30}
+]}
+,
+{ "name" : "samples/line-multi-axis.html", "id": 54, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 55, "size" : 5}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 56, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 57, "size" : 5}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 58, "size" : 9}
+,
+{ "name" : "robert@rbecker.eu", "id": 59, "size" : 1}
+]}
+,
+{ "name" : "test/scale.category.tests.js", "id": 60, "children" : [
+{ "name" : "tore@lervik.com", "id": 61, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 62, "size" : 4}
+,
+{ "name" : "nancypanger@gmail.com", "id": 63, "size" : 1}
+,
+{ "name" : "mattias@lyckne.se", "id": 64, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 65, "size" : 13}
+,
+{ "name" : "robert@rbecker.eu", "id": 66, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 67, "size" : 12}
+]}
+,
+{ "name" : "src/Chart.Core.Point.js", "id": 68, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 69, "size" : 2}
+]}
+,
+{ "name" : "src/controllers/controller.line.js", "id": 70, "children" : [
+{ "name" : "jannis.achstetter@schneider-electric.com", "id": 71, "size" : 3}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 72, "size" : 21}
+,
+{ "name" : "derek@derekperkins.com", "id": 73, "size" : 3}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 74, "size" : 14}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 75, "size" : 3}
+,
+{ "name" : "mathiask@hotmail.de", "id": 76, "size" : 5}
+,
+{ "name" : "robert@rbecker.eu", "id": 77, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 78, "size" : 20}
+]}
+,
+{ "name" : ".gitignore", "id": 79, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 80, "size" : 1}
+,
+{ "name" : "eric@ericjperry.com", "id": 81, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 82, "size" : 4}
+,
+{ "name" : "hello@nickdownie.com", "id": 83, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 84, "size" : 2}
+,
+{ "name" : "robert@rbecker.eu", "id": 85, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 86, "size" : 4}
+]}
+,
+{ "name" : "docs/03-Bar-Chart.md", "id": 87, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 88, "size" : 1}
+,
+{ "name" : "wcatron@catrondevelopment.com", "id": 89, "size" : 6}
+,
+{ "name" : "daan.j.demeyer@gmail.com", "id": 90, "size" : 2}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 91, "size" : 2}
+,
+{ "name" : "mutsmu@gmail.com", "id": 92, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 93, "size" : 13}
+,
+{ "name" : "robert@rbecker.eu", "id": 94, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 95, "size" : 5}
+]}
+,
+{ "name" : "docs/01-Line-Chart.md", "id": 96, "children" : [
+{ "name" : "johnheroy@gmail.com", "id": 97, "size" : 1}
+,
+{ "name" : "pjvilloud-bitbucket@yahoo.fr", "id": 98, "size" : 1}
+,
+{ "name" : "niels@kreable.com", "id": 99, "size" : 1}
+,
+{ "name" : "fntneves@gmail.com", "id": 100, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 101, "size" : 3}
+,
+{ "name" : "guy@tuttnauer-hq.com", "id": 102, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 103, "size" : 3}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 104, "size" : 4}
+,
+{ "name" : "github.com@phor.net", "id": 105, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 106, "size" : 8}
+]}
+,
+{ "name" : "src/charts/Chart.Bar.js", "id": 107, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 108, "size" : 4}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 109, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 110, "size" : 2}
+]}
+,
+{ "name" : "docs/styles.less", "id": 111, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 112, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 113, "size" : 2}
+]}
+,
+{ "name" : "component.json", "id": 114, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 115, "size" : 1}
+,
+{ "name" : "fizerkhan@gmail.com", "id": 116, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 117, "size" : 3}
+]}
+,
+{ "name" : "test/controller.bar.tests.js", "id": 118, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 119, "size" : 6}
+,
+{ "name" : "mutsmu@gmail.com", "id": 120, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 121, "size" : 10}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 122, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 123, "size" : 17}
+,
+{ "name" : "robert@rbecker.eu", "id": 124, "size" : 1}
+]}
+,
+{ "name" : "src/Chart.Radar.js", "id": 125, "children" : [
+{ "name" : "leighquince@quincewebdesign.com", "id": 126, "size" : 1}
+,
+{ "name" : "e.e.mikula@gmail.com", "id": 127, "size" : 1}
+,
+{ "name" : "rahul@rvaidya.com", "id": 128, "size" : 1}
+,
+{ "name" : "vanessau@cse.unsw.edu.au", "id": 129, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 130, "size" : 12}
+,
+{ "name" : "me@aaron-miller.me", "id": 131, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 132, "size" : 10}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 133, "size" : 8}
+,
+{ "name" : "github.com@phor.net", "id": 134, "size" : 2}
+,
+{ "name" : "msmiley@alumni.rice.edu", "id": 135, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 136, "size" : 7}
+]}
+,
+{ "name" : "src/core/core.plugin.js", "id": 137, "children" : [
+{ "name" : "potoms.jan@gmail.com", "id": 138, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 139, "size" : 5}
+]}
+,
+{ "name" : "samples/sixup.html", "id": 140, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 141, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 142, "size" : 2}
+]}
+,
+{ "name" : "src/Chart.Core.Rectangle.js", "id": 143, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 144, "size" : 2}
+]}
+,
+{ "name" : "src/charts/chart.line.js", "id": 145, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 146, "size" : 4}
+,
+{ "name" : "derek@derekperkins.com", "id": 147, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 148, "size" : 5}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 149, "size" : 12}
+]}
+,
+{ "name" : "src/elements/element.line.js", "id": 150, "children" : [
+{ "name" : "tore@lervik.com", "id": 151, "size" : 2}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 152, "size" : 11}
+,
+{ "name" : "derek@derekperkins.com", "id": 153, "size" : 3}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 154, "size" : 5}
+,
+{ "name" : "robert@rbecker.eu", "id": 155, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 156, "size" : 17}
+]}
+,
+{ "name" : "src/core/core.helpers.js", "id": 157, "children" : [
+{ "name" : "posgarou@gmail.com", "id": 158, "size" : 1}
+,
+{ "name" : "tom@tomduncalf.com", "id": 159, "size" : 1}
+,
+{ "name" : "lucas.styles@outlook.com", "id": 160, "size" : 1}
+,
+{ "name" : "cedric@peakfijn.nl", "id": 161, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 162, "size" : 25}
+,
+{ "name" : "derek@derekperkins.com", "id": 163, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 164, "size" : 30}
+,
+{ "name" : "wuchangmingnice@163.com", "id": 165, "size" : 1}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 166, "size" : 2}
+,
+{ "name" : "mathiask@hotmail.de", "id": 167, "size" : 3}
+,
+{ "name" : "robert@rbecker.eu", "id": 168, "size" : 5}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 169, "size" : 33}
+]}
+,
+{ "name" : "src/charts/chart.bar.js", "id": 170, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 171, "size" : 7}
+,
+{ "name" : "derek@derekperkins.com", "id": 172, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 173, "size" : 5}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 174, "size" : 9}
+]}
+,
+{ "name" : "src/core/core.layoutService.js", "id": 175, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 176, "size" : 7}
+,
+{ "name" : "derek@derekperkins.com", "id": 177, "size" : 1}
+,
+{ "name" : "bniemyjski@gmail.com", "id": 178, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 179, "size" : 3}
+,
+{ "name" : "robert@rbecker.eu", "id": 180, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 181, "size" : 7}
+]}
+,
+{ "name" : "docs/06-Pie-Doughnut-Chart.md", "id": 182, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 183, "size" : 2}
+,
+{ "name" : "wcatron@catrondevelopment.com", "id": 184, "size" : 3}
+,
+{ "name" : "dougmolineux@Dougs-MacBook-Pro.local", "id": 185, "size" : 1}
+,
+{ "name" : "daan.j.demeyer@gmail.com", "id": 186, "size" : 3}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 187, "size" : 2}
+,
+{ "name" : "derek@derekperkins.com", "id": 188, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 189, "size" : 19}
+,
+{ "name" : "marius.meissner@googlemail.com", "id": 190, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 191, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 192, "size" : 7}
+,
+{ "name" : "plus.vincchan@gmail.com", "id": 193, "size" : 1}
+]}
+,
+{ "name" : "readme.md", "id": 194, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 195, "size" : 9}
+,
+{ "name" : "ilyakatz@gmail.com", "id": 196, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 197, "size" : 4}
+]}
+,
+{ "name" : "test/mockContext.js", "id": 198, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 199, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 200, "size" : 8}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 201, "size" : 2}
+,
+{ "name" : "mathiask@hotmail.de", "id": 202, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 203, "size" : 10}
+,
+{ "name" : "robert@rbecker.eu", "id": 204, "size" : 1}
+]}
+,
+{ "name" : "test/core.legend.tests.js", "id": 205, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 206, "size" : 3}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 207, "size" : 2}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 208, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 209, "size" : 2}
+]}
+,
+{ "name" : "src/_charts/chart.scatter.js", "id": 210, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 211, "size" : 2}
+]}
+,
+{ "name" : "test/element.line.tests.js", "id": 212, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 213, "size" : 5}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 214, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 215, "size" : 5}
+]}
+,
+{ "name" : "CONTRIBUTING.md", "id": 216, "children" : [
+{ "name" : "morley@motown.office.okcupid.com", "id": 217, "size" : 1}
+,
+{ "name" : "zachary@panzarino.com", "id": 218, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 219, "size" : 2}
+,
+{ "name" : "me@jakesyl.com", "id": 220, "size" : 1}
+,
+{ "name" : "me@aaron-miller.me", "id": 221, "size" : 1}
+,
+{ "name" : "mansurovs@rambler.ru", "id": 222, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 223, "size" : 4}
+,
+{ "name" : "jakesyl@gmail.com", "id": 224, "size" : 6}
+,
+{ "name" : "bendxn@gmail.com", "id": 225, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 226, "size" : 4}
+,
+{ "name" : "github.com@phor.net", "id": 227, "size" : 8}
+,
+{ "name" : "robert@rbecker.eu", "id": 228, "size" : 1}
+]}
+,
+{ "name" : "site/index.html", "id": 229, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 230, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 231, "size" : 2}
+]}
+,
+{ "name" : "docs/01-Scales", "id": 232, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 233, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 234, "size" : 1}
+]}
+,
+{ "name" : "src/core/core.datasetController.js", "id": 235, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 236, "size" : 4}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 237, "size" : 2}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 238, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 239, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 240, "size" : 3}
+]}
+,
+{ "name" : "src/charts/chart.scatter.js", "id": 241, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 242, "size" : 4}
+,
+{ "name" : "derek@derekperkins.com", "id": 243, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 244, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 245, "size" : 6}
+]}
+,
+{ "name" : "src/scales/scale.linear.js", "id": 246, "children" : [
+{ "name" : "mic.gallego@gmail.com", "id": 247, "size" : 1}
+,
+{ "name" : "morley@motown.office.okcupid.com", "id": 248, "size" : 2}
+,
+{ "name" : "tore@lervik.com", "id": 249, "size" : 2}
+,
+{ "name" : "mail@fastr.de", "id": 250, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 251, "size" : 23}
+,
+{ "name" : "derek@derekperkins.com", "id": 252, "size" : 1}
+,
+{ "name" : "mattias@lyckne.se", "id": 253, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 254, "size" : 30}
+,
+{ "name" : "pascoual@users.noreply.github.com", "id": 255, "size" : 1}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 256, "size" : 4}
+,
+{ "name" : "robert@rbecker.eu", "id": 257, "size" : 6}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 258, "size" : 44}
+]}
+,
+{ "name" : "site/styles.css", "id": 259, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 260, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 261, "size" : 2}
+]}
+,
+{ "name" : "samples/line-externalTooltips.html", "id": 262, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 263, "size" : 2}
+]}
+,
+{ "name" : "samples/line-time-scale.html", "id": 264, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 265, "size" : 11}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 266, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 267, "size" : 8}
+,
+{ "name" : "robert@rbecker.eu", "id": 268, "size" : 1}
+]}
+,
+{ "name" : "src/core/core.controller.js", "id": 269, "children" : [
+{ "name" : "posgarou@gmail.com", "id": 270, "size" : 1}
+,
+{ "name" : "pascoualito@gmail.com", "id": 271, "size" : 2}
+,
+{ "name" : "potoms.jan@gmail.com", "id": 272, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 273, "size" : 53}
+,
+{ "name" : "derek@derekperkins.com", "id": 274, "size" : 4}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 275, "size" : 32}
+,
+{ "name" : "menno.dekker@erasmusmc.nl", "id": 276, "size" : 2}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 277, "size" : 4}
+,
+{ "name" : "mathiask@hotmail.de", "id": 278, "size" : 2}
+,
+{ "name" : "robert@rbecker.eu", "id": 279, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 280, "size" : 41}
+]}
+,
+{ "name" : "src/controllers/controller.bubble.js", "id": 281, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 282, "size" : 7}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 283, "size" : 5}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 284, "size" : 1}
+,
+{ "name" : "mathiask@hotmail.de", "id": 285, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 286, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 287, "size" : 5}
+]}
+,
+{ "name" : "samples/polarArea.html", "id": 288, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 289, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 290, "size" : 2}
+]}
+,
+{ "name" : "nbproject/private/private.properties", "id": 291, "children" : [
+{ "name" : "robert@rbecker.eu", "id": 292, "size" : 2}
+]}
+,
+{ "name" : "test/controller.doughnut.tests.js", "id": 293, "children" : [
+{ "name" : "michael.dehoog@gmail.com", "id": 294, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 295, "size" : 3}
+,
+{ "name" : "derek@derekperkins.com", "id": 296, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 297, "size" : 10}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 298, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 299, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 300, "size" : 11}
+]}
+,
+{ "name" : "docs/05-Pie-Doughnut-Chart.md", "id": 301, "children" : [
+{ "name" : "mieszko.chowaniec@gmail.com", "id": 302, "size" : 1}
+,
+{ "name" : "niels@kreable.com", "id": 303, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 304, "size" : 2}
+,
+{ "name" : "hello@nickdownie.com", "id": 305, "size" : 2}
+,
+{ "name" : "jakesyl@gmail.com", "id": 306, "size" : 1}
+,
+{ "name" : "cmweiss@gmail.com", "id": 307, "size" : 1}
+,
+{ "name" : "dcunniff@gmail.com", "id": 308, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 309, "size" : 4}
+]}
+,
+{ "name" : "docs/Chart.js", "id": 310, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 311, "size" : 2}
+,
+{ "name" : "hello@nickdownie.com", "id": 312, "size" : 2}
+]}
+,
+{ "name" : "samples/combo-bar-line.html", "id": 313, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 314, "size" : 7}
+,
+{ "name" : "derek@derekperkins.com", "id": 315, "size" : 1}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 316, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 317, "size" : 4}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 318, "size" : 3}
+,
+{ "name" : "robert@rbecker.eu", "id": 319, "size" : 1}
+]}
+,
+{ "name" : "src/core/core.scaleService.js", "id": 320, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 321, "size" : 9}
+,
+{ "name" : "derek@derekperkins.com", "id": 322, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 323, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 324, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 325, "size" : 8}
+]}
+,
+{ "name" : "package.json", "id": 326, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 327, "size" : 1}
+,
+{ "name" : "kirk@strobeck.com", "id": 328, "size" : 1}
+,
+{ "name" : "zachary@panzarino.com", "id": 329, "size" : 3}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 330, "size" : 22}
+,
+{ "name" : "me@jakesyl.com", "id": 331, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 332, "size" : 13}
+,
+{ "name" : "florent.cailhol@gmail.com", "id": 333, "size" : 1}
+,
+{ "name" : "sorrycc@gmail.com", "id": 334, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 335, "size" : 12}
+,
+{ "name" : "github.com@phor.net", "id": 336, "size" : 2}
+,
+{ "name" : "klaemo@fastmail.fm", "id": 337, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 338, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 339, "size" : 19}
+]}
+,
+{ "name" : "samples/scatter.html", "id": 340, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 341, "size" : 6}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 342, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 343, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 344, "size" : 9}
+,
+{ "name" : "robert@rbecker.eu", "id": 345, "size" : 1}
+]}
+,
+{ "name" : "samples/bar.html", "id": 346, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 347, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 348, "size" : 28}
+,
+{ "name" : "derek@derekperkins.com", "id": 349, "size" : 3}
+,
+{ "name" : "hello@nickdownie.com", "id": 350, "size" : 2}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 351, "size" : 1}
+,
+{ "name" : "mutsmu@gmail.com", "id": 352, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 353, "size" : 9}
+,
+{ "name" : "github.com@phor.net", "id": 354, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 355, "size" : 19}
+,
+{ "name" : "robert@rbecker.eu", "id": 356, "size" : 1}
+]}
+,
+{ "name" : "src/charts/chart.polarArea.js", "id": 357, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 358, "size" : 4}
+,
+{ "name" : "derek@derekperkins.com", "id": 359, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 360, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 361, "size" : 5}
+]}
+,
+{ "name" : "site/assets/html.png", "id": 362, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 363, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 364, "size" : 2}
+]}
+,
+{ "name" : "samples/line-customTooltips.html", "id": 365, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 366, "size" : 9}
+,
+{ "name" : "derek@derekperkins.com", "id": 367, "size" : 2}
+,
+{ "name" : "20aman@gmail.com", "id": 368, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 369, "size" : 1}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 370, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 371, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 372, "size" : 2}
+]}
+,
+{ "name" : "test/element.rectangle.tests.js", "id": 373, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 374, "size" : 2}
+,
+{ "name" : "mutsmu@gmail.com", "id": 375, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 376, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 377, "size" : 3}
+,
+{ "name" : "robert@rbecker.eu", "id": 378, "size" : 1}
+]}
+,
+{ "name" : "bar.html", "id": 379, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 380, "size" : 2}
+]}
+,
+{ "name" : "site/assets/Chart.js", "id": 381, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 382, "size" : 2}
+,
+{ "name" : "hello@nickdownie.com", "id": 383, "size" : 2}
+]}
+,
+{ "name" : "src/Chart.Core.Arc.js", "id": 384, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 385, "size" : 2}
+]}
+,
+{ "name" : "samples/line-x-axis-filter.html", "id": 386, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 387, "size" : 6}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 388, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 389, "size" : 6}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 390, "size" : 7}
+,
+{ "name" : "robert@rbecker.eu", "id": 391, "size" : 1}
+]}
+,
+{ "name" : "src/Chart.Scatter.js", "id": 392, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 393, "size" : 6}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 394, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 395, "size" : 18}
+]}
+,
+{ "name" : "karma.coverage.conf.js", "id": 396, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 397, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 398, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 399, "size" : 6}
+]}
+,
+{ "name" : "test/controller.line.tests.js", "id": 400, "children" : [
+{ "name" : "jannis.achstetter@schneider-electric.com", "id": 401, "size" : 3}
+,
+{ "name" : "zachary@panzarino.com", "id": 402, "size" : 2}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 403, "size" : 10}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 404, "size" : 12}
+,
+{ "name" : "mathiask@hotmail.de", "id": 405, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 406, "size" : 16}
+,
+{ "name" : "robert@rbecker.eu", "id": 407, "size" : 1}
+]}
+,
+{ "name" : "nbproject/private/private.xml", "id": 408, "children" : [
+{ "name" : "robert@rbecker.eu", "id": 409, "size" : 2}
+]}
+,
+{ "name" : "src/core/core.title.js", "id": 410, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 411, "size" : 4}
+,
+{ "name" : "derek@derekperkins.com", "id": 412, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 413, "size" : 2}
+,
+{ "name" : "robert@rbecker.eu", "id": 414, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 415, "size" : 8}
+]}
+,
+{ "name" : "docs/06-Advanced.md", "id": 416, "children" : [
+{ "name" : "james@bluebaytravel.co.uk", "id": 417, "size" : 1}
+,
+{ "name" : "nick@nickdownie.com", "id": 418, "size" : 1}
+,
+{ "name" : "dima117a@gmail.com", "id": 419, "size" : 1}
+,
+{ "name" : "ben@gesoff.uk", "id": 420, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 421, "size" : 5}
+,
+{ "name" : "jakesyl@gmail.com", "id": 422, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 423, "size" : 9}
+,
+{ "name" : "ydenberg@gmail.com", "id": 424, "size" : 1}
+,
+{ "name" : "amir.aharoni@mail.huji.ac.il", "id": 425, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 426, "size" : 4}
+,
+{ "name" : "Mardaneus86@users.noreply.github.com", "id": 427, "size" : 1}
+,
+{ "name" : "cleggmatt@gmail.com", "id": 428, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 429, "size" : 1}
+]}
+,
+{ "name" : "src/core/core.responsive.js", "id": 430, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 431, "size" : 6}
+,
+{ "name" : "derek@derekperkins.com", "id": 432, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 433, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 434, "size" : 3}
+]}
+,
+{ "name" : "dist/Chart.min.js", "id": 435, "children" : [
+{ "name" : "tom@tomduncalf.com", "id": 436, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 437, "size" : 6}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 438, "size" : 4}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 439, "size" : 7}
+]}
+,
+{ "name" : "src/controllers/controller.polarArea.js", "id": 440, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 441, "size" : 16}
+,
+{ "name" : "derek@derekperkins.com", "id": 442, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 443, "size" : 13}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 444, "size" : 4}
+,
+{ "name" : "mathiask@hotmail.de", "id": 445, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 446, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 447, "size" : 24}
+]}
+,
+{ "name" : "test/controller.bubble.tests.js", "id": 448, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 449, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 450, "size" : 2}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 451, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 452, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 453, "size" : 1}
+]}
+,
+{ "name" : "docs/prettify.js", "id": 454, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 455, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 456, "size" : 2}
+]}
+,
+{ "name" : "samples/timeScale/line-time-scale.html", "id": 457, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 458, "size" : 4}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 459, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 460, "size" : 2}
+,
+{ "name" : "robert@rbecker.eu", "id": 461, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 462, "size" : 5}
+]}
+,
+{ "name" : "dist/Chart.js", "id": 463, "children" : [
+{ "name" : "tom@tomduncalf.com", "id": 464, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 465, "size" : 6}
+,
+{ "name" : "dibsy-jr@hotmail.co.uk", "id": 466, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 467, "size" : 5}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 468, "size" : 8}
+]}
+,
+{ "name" : "site/assets/6charts.png", "id": 469, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 470, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 471, "size" : 2}
+]}
+,
+{ "name" : "line.html", "id": 472, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 473, "size" : 2}
+]}
+,
+{ "name" : "src/controllers/controller.canvas.rectangular.js", "id": 474, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 475, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 476, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 477, "size" : 3}
+]}
+,
+{ "name" : "samples/tooltip-hooks.html", "id": 478, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 479, "size" : 6}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 480, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 481, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 482, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 483, "size" : 1}
+]}
+,
+{ "name" : "docs/04-Polar-Area-Chart.md", "id": 484, "children" : [
+{ "name" : "niels@kreable.com", "id": 485, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 486, "size" : 3}
+,
+{ "name" : "hello@nickdownie.com", "id": 487, "size" : 2}
+,
+{ "name" : "wouter.sioen@gmail.com", "id": 488, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 489, "size" : 3}
+]}
+,
+{ "name" : "samples/different-point-sizes.html", "id": 490, "children" : [
+{ "name" : "jannis.achstetter@schneider-electric.com", "id": 491, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 492, "size" : 1}
+]}
+,
+{ "name" : "src/charts/Chart.Line.js", "id": 493, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 494, "size" : 4}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 495, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 496, "size" : 4}
+]}
+,
+{ "name" : "samples/playground.js", "id": 497, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 498, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 499, "size" : 1}
+]}
+,
+{ "name" : "src/elements/element.arc.js", "id": 500, "children" : [
+{ "name" : "michael.dehoog@gmail.com", "id": 501, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 502, "size" : 8}
+,
+{ "name" : "derek@derekperkins.com", "id": 503, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 504, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 505, "size" : 6}
+]}
+,
+{ "name" : "samples/line-scale-override.html", "id": 506, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 507, "size" : 3}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 508, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 509, "size" : 3}
+]}
+,
+{ "name" : "samples/AnimationCallbacks/progress-bar.html", "id": 510, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 511, "size" : 3}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 512, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 513, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 514, "size" : 2}
+,
+{ "name" : "robert@rbecker.eu", "id": 515, "size" : 1}
+]}
+,
+{ "name" : "dist/Chart.bundle.js", "id": 516, "children" : [
+{ "name" : "tom@tomduncalf.com", "id": 517, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 518, "size" : 6}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 519, "size" : 4}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 520, "size" : 8}
+]}
+,
+{ "name" : "test/controller.polarArea.tests.js", "id": 521, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 522, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 523, "size" : 2}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 524, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 525, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 526, "size" : 1}
+]}
+,
+{ "name" : "src/_charts/chart.polarArea.js", "id": 527, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 528, "size" : 2}
+]}
+,
+{ "name" : "samples/combo-time-scale.html", "id": 529, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 530, "size" : 8}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 531, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 532, "size" : 3}
+,
+{ "name" : "robert@rbecker.eu", "id": 533, "size" : 1}
+]}
+,
+{ "name" : "test/element.point.tests.js", "id": 534, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 535, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 536, "size" : 3}
+,
+{ "name" : "mathiask@hotmail.de", "id": 537, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 538, "size" : 3}
+,
+{ "name" : "robert@rbecker.eu", "id": 539, "size" : 1}
+]}
+,
+{ "name" : "src/charts/chart.radar.js", "id": 540, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 541, "size" : 4}
+,
+{ "name" : "derek@derekperkins.com", "id": 542, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 543, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 544, "size" : 5}
+]}
+,
+{ "name" : "dist/Chart.bundle.min.js", "id": 545, "children" : [
+{ "name" : "tom@tomduncalf.com", "id": 546, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 547, "size" : 6}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 548, "size" : 4}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 549, "size" : 7}
+]}
+,
+{ "name" : "Chart.min.js", "id": 550, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 551, "size" : 4}
+,
+{ "name" : "morley@motown.office.okcupid.com", "id": 552, "size" : 3}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 553, "size" : 53}
+,
+{ "name" : "derek@derekperkins.com", "id": 554, "size" : 1}
+,
+{ "name" : "brett.bukowski@gmail.com", "id": 555, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 556, "size" : 16}
+,
+{ "name" : "bendxn@gmail.com", "id": 557, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 558, "size" : 7}
+,
+{ "name" : "aburke@bitflood.org", "id": 559, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 560, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 561, "size" : 28}
+]}
+,
+{ "name" : "docs/prettify.css", "id": 562, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 563, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 564, "size" : 2}
+]}
+,
+{ "name" : "test/scale.radialLinear.tests.js", "id": 565, "children" : [
+{ "name" : "tore@lervik.com", "id": 566, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 567, "size" : 7}
+,
+{ "name" : "nancypanger@gmail.com", "id": 568, "size" : 1}
+,
+{ "name" : "mattias@lyckne.se", "id": 569, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 570, "size" : 14}
+,
+{ "name" : "robert@rbecker.eu", "id": 571, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 572, "size" : 15}
+]}
+,
+{ "name" : "samples/bar-stacked.html", "id": 573, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 574, "size" : 5}
+,
+{ "name" : "derek@derekperkins.com", "id": 575, "size" : 1}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 576, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 577, "size" : 5}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 578, "size" : 7}
+,
+{ "name" : "robert@rbecker.eu", "id": 579, "size" : 1}
+]}
+,
+{ "name" : "samples/line-skip-points.html", "id": 580, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 581, "size" : 4}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 582, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 583, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 584, "size" : 5}
+,
+{ "name" : "robert@rbecker.eu", "id": 585, "size" : 1}
+]}
+,
+{ "name" : "src/controllers/controller.elements.rectangular.js", "id": 586, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 587, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 588, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 589, "size" : 3}
+]}
+,
+{ "name" : "samples/line-time-point-data.html", "id": 590, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 591, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 592, "size" : 5}
+,
+{ "name" : "robert@rbecker.eu", "id": 593, "size" : 1}
+]}
+,
+{ "name" : "radar.html", "id": 594, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 595, "size" : 2}
+]}
+,
+{ "name" : "samples/pie-externalTooltips.html", "id": 596, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 597, "size" : 2}
+]}
+,
+{ "name" : "src/Chart.Bar.js", "id": 598, "children" : [
+{ "name" : "e.e.mikula@gmail.com", "id": 599, "size" : 2}
+,
+{ "name" : "fntneves@gmail.com", "id": 600, "size" : 1}
+,
+{ "name" : "vanessau@cse.unsw.edu.au", "id": 601, "size" : 1}
+,
+{ "name" : "dcochrum@sonnysdirect.com", "id": 602, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 603, "size" : 31}
+,
+{ "name" : "derek@derekperkins.com", "id": 604, "size" : 1}
+,
+{ "name" : "cool_bombom@hotmail.com", "id": 605, "size" : 3}
+,
+{ "name" : "hello@nickdownie.com", "id": 606, "size" : 8}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 607, "size" : 4}
+,
+{ "name" : "github.com@phor.net", "id": 608, "size" : 3}
+,
+{ "name" : "msmiley@alumni.rice.edu", "id": 609, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 610, "size" : 18}
+]}
+,
+{ "name" : "src/charts/Chart.Radar.js", "id": 611, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 612, "size" : 7}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 613, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 614, "size" : 7}
+]}
+,
+{ "name" : "src/charts/Chart.Doughnut.js", "id": 615, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 616, "size" : 6}
+,
+{ "name" : "derek@derekperkins.com", "id": 617, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 618, "size" : 4}
+,
+{ "name" : "robert@rbecker.eu", "id": 619, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 620, "size" : 11}
+]}
+,
+{ "name" : "test/scale.time.tests.js", "id": 621, "children" : [
+{ "name" : "tore@lervik.com", "id": 622, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 623, "size" : 7}
+,
+{ "name" : "nancypanger@gmail.com", "id": 624, "size" : 1}
+,
+{ "name" : "mattias@lyckne.se", "id": 625, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 626, "size" : 19}
+,
+{ "name" : "robert@rbecker.eu", "id": 627, "size" : 1}
+,
+{ "name" : "matthi@matthi.coffee", "id": 628, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 629, "size" : 19}
+]}
+,
+{ "name" : "src/controllers/controller.rectangular.js", "id": 630, "children" : [
+{ "name" : "evert.timberg@gmail.com", "id": 631, "size" : 2}
+]}
+,
+{ "name" : "src/_charts/chart.doughnut.js", "id": 632, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 633, "size" : 2}
+]}
+,
+{ "name" : "src/charts/Chart.Scatter.js", "id": 634, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 635, "size" : 4}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 636, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 637, "size" : 8}
+]}
+,
+{ "name" : "composer.json", "id": 638, "children" : [
+{ "name" : "me@jakesyl.com", "id": 639, "size" : 1}
+,
+{ "name" : "boran.car@gmail.com", "id": 640, "size" : 1}
+,
+{ "name" : "jakesyl@gmail.com", "id": 641, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 642, "size" : 1}
+]}
+,
+{ "name" : "test/core.title.tests.js", "id": 643, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 644, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 645, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 646, "size" : 2}
+]}
+,
+{ "name" : "src/scales/scale.radialLinear.js", "id": 647, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 648, "size" : 20}
+,
+{ "name" : "derek@derekperkins.com", "id": 649, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 650, "size" : 16}
+,
+{ "name" : "pascoual@users.noreply.github.com", "id": 651, "size" : 1}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 652, "size" : 2}
+,
+{ "name" : "jkalina@redhat.com", "id": 653, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 654, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 655, "size" : 28}
+]}
+,
+{ "name" : "samples/pie-customTooltips.html", "id": 656, "children" : [
+{ "name" : "zachary@panzarino.com", "id": 657, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 658, "size" : 4}
+,
+{ "name" : "20aman@gmail.com", "id": 659, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 660, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 661, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 662, "size" : 1}
+]}
+,
+{ "name" : "docs/prettify.less", "id": 663, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 664, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 665, "size" : 2}
+]}
+,
+{ "name" : "samples/radar-skip-points.html", "id": 666, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 667, "size" : 4}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 668, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 669, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 670, "size" : 2}
+]}
+,
+{ "name" : "src/core/core.js", "id": 671, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 672, "size" : 23}
+,
+{ "name" : "derek@derekperkins.com", "id": 673, "size" : 1}
+,
+{ "name" : "dibsy-jr@hotmail.co.uk", "id": 674, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 675, "size" : 9}
+,
+{ "name" : "robert@rbecker.eu", "id": 676, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 677, "size" : 24}
+]}
+,
+{ "name" : "samples/doughnut.html", "id": 678, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 679, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 680, "size" : 18}
+,
+{ "name" : "derek@derekperkins.com", "id": 681, "size" : 2}
+,
+{ "name" : "hello@nickdownie.com", "id": 682, "size" : 2}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 683, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 684, "size" : 3}
+,
+{ "name" : "github.com@phor.net", "id": 685, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 686, "size" : 15}
+,
+{ "name" : "robert@rbecker.eu", "id": 687, "size" : 1}
+]}
+,
+{ "name" : "docs/index.html", "id": 688, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 689, "size" : 1}
+,
+{ "name" : "ider@storm8.com", "id": 690, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 691, "size" : 3}
+]}
+,
+{ "name" : "src/core/core.chart.js", "id": 692, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 693, "size" : 2}
+]}
+,
+{ "name" : "src/Chart.PolarArea.js", "id": 694, "children" : [
+{ "name" : "e.e.mikula@gmail.com", "id": 695, "size" : 1}
+,
+{ "name" : "vanessau@cse.unsw.edu.au", "id": 696, "size" : 1}
+,
+{ "name" : "dcochrum@sonnysdirect.com", "id": 697, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 698, "size" : 15}
+,
+{ "name" : "hello@nickdownie.com", "id": 699, "size" : 2}
+,
+{ "name" : "wouter.sioen@gmail.com", "id": 700, "size" : 1}
+,
+{ "name" : "bendxn@gmail.com", "id": 701, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 702, "size" : 5}
+,
+{ "name" : "github.com@phor.net", "id": 703, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 704, "size" : 11}
+]}
+,
+{ "name" : ".codeclimate.yml", "id": 705, "children" : [
+{ "name" : "evert.timberg+github@gmail.com", "id": 706, "size" : 4}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 707, "size" : 7}
+]}
+,
+{ "name" : "test/scale.logarithmic.tests.js", "id": 708, "children" : [
+{ "name" : "tore@lervik.com", "id": 709, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 710, "size" : 6}
+,
+{ "name" : "nancypanger@gmail.com", "id": 711, "size" : 1}
+,
+{ "name" : "mattias@lyckne.se", "id": 712, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 713, "size" : 16}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 714, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 715, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 716, "size" : 21}
+]}
+,
+{ "name" : "gulpfile.js", "id": 717, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 718, "size" : 1}
+,
+{ "name" : "zhuyimin@iboxpay.com", "id": 719, "size" : 1}
+,
+{ "name" : "kirk@strobeck.com", "id": 720, "size" : 2}
+,
+{ "name" : "zachary@panzarino.com", "id": 721, "size" : 4}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 722, "size" : 26}
+,
+{ "name" : "me@jakesyl.com", "id": 723, "size" : 1}
+,
+{ "name" : "derek@derekperkins.com", "id": 724, "size" : 1}
+,
+{ "name" : "jtibble@users.noreply.github.com", "id": 725, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 726, "size" : 8}
+,
+{ "name" : "kriss@xixs.com", "id": 727, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 728, "size" : 22}
+,
+{ "name" : "github.com@phor.net", "id": 729, "size" : 3}
+,
+{ "name" : "wuchangmingnice@163.com", "id": 730, "size" : 1}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 731, "size" : 1}
+,
+{ "name" : "kirushanth.2@gmail.com", "id": 732, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 733, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 734, "size" : 23}
+]}
+,
+{ "name" : "site/assets/excanvas.js", "id": 735, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 736, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 737, "size" : 2}
+]}
+,
+{ "name" : "src/core/core.scale.js", "id": 738, "children" : [
+{ "name" : "morley@motown.office.okcupid.com", "id": 739, "size" : 6}
+,
+{ "name" : "daan.j.demeyer@gmail.com", "id": 740, "size" : 1}
+,
+{ "name" : "tore@lervik.com", "id": 741, "size" : 3}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 742, "size" : 27}
+,
+{ "name" : "derek@derekperkins.com", "id": 743, "size" : 1}
+,
+{ "name" : "nancypanger@gmail.com", "id": 744, "size" : 1}
+,
+{ "name" : "kriss@xixs.com", "id": 745, "size" : 1}
+,
+{ "name" : "mattias@lyckne.se", "id": 746, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 747, "size" : 27}
+,
+{ "name" : "mathiask@hotmail.de", "id": 748, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 749, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 750, "size" : 42}
+]}
+,
+{ "name" : "docs/styles.css", "id": 751, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 752, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 753, "size" : 2}
+]}
+,
+{ "name" : "samples/polar-area.html", "id": 754, "children" : [
+{ "name" : "wcatron@catrondevelopment.com", "id": 755, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 756, "size" : 14}
+,
+{ "name" : "derek@derekperkins.com", "id": 757, "size" : 2}
+,
+{ "name" : "hello@nickdownie.com", "id": 758, "size" : 2}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 759, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 760, "size" : 6}
+,
+{ "name" : "github.com@phor.net", "id": 761, "size" : 1}
+,
+{ "name" : "jkalina@redhat.com", "id": 762, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 763, "size" : 13}
+,
+{ "name" : "robert@rbecker.eu", "id": 764, "size" : 1}
+]}
+,
+{ "name" : "src/Chart.Tooltip.js", "id": 765, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 766, "size" : 4}
+]}
+,
+{ "name" : "src/elements/element.point.js", "id": 767, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 768, "size" : 7}
+,
+{ "name" : "derek@derekperkins.com", "id": 769, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 770, "size" : 6}
+,
+{ "name" : "mathiask@hotmail.de", "id": 771, "size" : 3}
+,
+{ "name" : "robert@rbecker.eu", "id": 772, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 773, "size" : 6}
+]}
+,
+{ "name" : "sixup.html", "id": 774, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 775, "size" : 2}
+]}
+,
+{ "name" : "src/Chart.Scale.RadialLinear.js", "id": 776, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 777, "size" : 2}
+]}
+,
+{ "name" : "config.jshintrc", "id": 778, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 779, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 780, "size" : 1}
+]}
+,
+{ "name" : "src/charts/Chart.PolarArea.js", "id": 781, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 782, "size" : 6}
+,
+{ "name" : "derek@derekperkins.com", "id": 783, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 784, "size" : 4}
+,
+{ "name" : "robert@rbecker.eu", "id": 785, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 786, "size" : 11}
+]}
+,
+{ "name" : "src/charts/chart.doughnut.js", "id": 787, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 788, "size" : 4}
+,
+{ "name" : "derek@derekperkins.com", "id": 789, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 790, "size" : 1}
+]}
+,
+{ "name" : "nbproject/project.xml", "id": 791, "children" : [
+{ "name" : "robert@rbecker.eu", "id": 792, "size" : 2}
+]}
+,
+{ "name" : "docs/03-Radar-Chart.md", "id": 793, "children" : [
+{ "name" : "johnheroy@gmail.com", "id": 794, "size" : 1}
+,
+{ "name" : "niels@kreable.com", "id": 795, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 796, "size" : 2}
+,
+{ "name" : "me@aaron-miller.me", "id": 797, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 798, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 799, "size" : 3}
+,
+{ "name" : "github.com@phor.net", "id": 800, "size" : 1}
+]}
+,
+{ "name" : "src/scales/scale.time.js", "id": 801, "children" : [
+{ "name" : "tore@lervik.com", "id": 802, "size" : 3}
+,
+{ "name" : "Lighnat0r@users.noreply.github.com", "id": 803, "size" : 2}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 804, "size" : 30}
+,
+{ "name" : "Lighnat0r@gmail.com", "id": 805, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 806, "size" : 17}
+,
+{ "name" : "robert@rbecker.eu", "id": 807, "size" : 1}
+,
+{ "name" : "matthi@matthi.coffee", "id": 808, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 809, "size" : 27}
+]}
+,
+{ "name" : "Chart.js", "id": 810, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 811, "size" : 4}
+,
+{ "name" : "morley@motown.office.okcupid.com", "id": 812, "size" : 3}
+,
+{ "name" : "apang@softwaredevelopment.ca", "id": 813, "size" : 1}
+,
+{ "name" : "esa-matti@suuronen.org", "id": 814, "size" : 1}
+,
+{ "name" : "dcochrum@sonnysdirect.com", "id": 815, "size" : 2}
+,
+{ "name" : "davidcochrum@users.noreply.github.com", "id": 816, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 817, "size" : 54}
+,
+{ "name" : "derek@derekperkins.com", "id": 818, "size" : 1}
+,
+{ "name" : "brett.bukowski@gmail.com", "id": 819, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 820, "size" : 20}
+,
+{ "name" : "bendxn@gmail.com", "id": 821, "size" : 3}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 822, "size" : 8}
+,
+{ "name" : "chandruxp@gmail.com", "id": 823, "size" : 1}
+,
+{ "name" : "aburke@bitflood.org", "id": 824, "size" : 2}
+,
+{ "name" : "hello@jonrowe.co.uk", "id": 825, "size" : 2}
+,
+{ "name" : "robert@rbecker.eu", "id": 826, "size" : 4}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 827, "size" : 30}
+]}
+,
+{ "name" : "docs/07-Notes.md", "id": 828, "children" : [
+{ "name" : "james@bluebaytravel.co.uk", "id": 829, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 830, "size" : 2}
+,
+{ "name" : "hello@nickdownie.com", "id": 831, "size" : 3}
+]}
+,
+{ "name" : "src/scales/scale.category.js", "id": 832, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 833, "size" : 23}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 834, "size" : 17}
+,
+{ "name" : "ben@woodfordnet.co.uk", "id": 835, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 836, "size" : 24}
+]}
+,
+{ "name" : "docs/01-Scales.md", "id": 837, "children" : [
+{ "name" : "wcatron@catrondevelopment.com", "id": 838, "size" : 4}
+,
+{ "name" : "morley@motown.office.okcupid.com", "id": 839, "size" : 2}
+,
+{ "name" : "daan.j.demeyer@gmail.com", "id": 840, "size" : 2}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 841, "size" : 4}
+,
+{ "name" : "mattias@lyckne.se", "id": 842, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 843, "size" : 22}
+,
+{ "name" : "pascoual@users.noreply.github.com", "id": 844, "size" : 2}
+,
+{ "name" : "robert@rbecker.eu", "id": 845, "size" : 3}
+,
+{ "name" : "matthi@matthi.coffee", "id": 846, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 847, "size" : 14}
+]}
+,
+{ "name" : "samples/timeScale/line-time-point-data.html", "id": 848, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 849, "size" : 4}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 850, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 851, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 852, "size" : 4}
+,
+{ "name" : "robert@rbecker.eu", "id": 853, "size" : 1}
+]}
+,
+{ "name" : "test/core.element.tests.js", "id": 854, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 855, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 856, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 857, "size" : 2}
+]}
+,
+{ "name" : "site/assets/simple.png", "id": 858, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 859, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 860, "size" : 2}
+]}
+,
+{ "name" : ".eslintignore", "id": 861, "children" : [
+{ "name" : "evert.timberg+github@gmail.com", "id": 862, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 863, "size" : 2}
+]}
+,
+{ "name" : "src/Chart.Scale.Category.js", "id": 864, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 865, "size" : 3}
+]}
+,
+{ "name" : "test/core.plugin.tests.js", "id": 866, "children" : [
+{ "name" : "evert.timberg+github@gmail.com", "id": 867, "size" : 3}
+]}
+,
+{ "name" : "README.md", "id": 868, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 869, "size" : 2}
+,
+{ "name" : "j@maur.co", "id": 870, "size" : 1}
+,
+{ "name" : "zachary@panzarino.com", "id": 871, "size" : 3}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 872, "size" : 21}
+,
+{ "name" : "me@jakesyl.com", "id": 873, "size" : 2}
+,
+{ "name" : "derek@derekperkins.com", "id": 874, "size" : 3}
+,
+{ "name" : "jakesyl@gmail.com", "id": 875, "size" : 5}
+,
+{ "name" : "hello@nickdownie.com", "id": 876, "size" : 10}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 877, "size" : 4}
+,
+{ "name" : "github.com@phor.net", "id": 878, "size" : 7}
+,
+{ "name" : "robert@rbecker.eu", "id": 879, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 880, "size" : 5}
+]}
+,
+{ "name" : "karma.conf.js", "id": 881, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 882, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 883, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 884, "size" : 5}
+]}
+,
+{ "name" : "test/element.arc.tests.js", "id": 885, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 886, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 887, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 888, "size" : 2}
+]}
+,
+{ "name" : "src/controllers/controller.radar.js", "id": 889, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 890, "size" : 15}
+,
+{ "name" : "derek@derekperkins.com", "id": 891, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 892, "size" : 8}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 893, "size" : 1}
+,
+{ "name" : "mathiask@hotmail.de", "id": 894, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 895, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 896, "size" : 16}
+]}
+,
+{ "name" : "bower.json", "id": 897, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 898, "size" : 1}
+,
+{ "name" : "nek.dev@gmail.com", "id": 899, "size" : 1}
+,
+{ "name" : "zachary@panzarino.com", "id": 900, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 901, "size" : 6}
+,
+{ "name" : "Kev.Kirsche+GitHub@gmail.com", "id": 902, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 903, "size" : 12}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 904, "size" : 3}
+,
+{ "name" : "github.com@phor.net", "id": 905, "size" : 2}
+,
+{ "name" : "troy3000@gmail.com", "id": 906, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 907, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 908, "size" : 5}
+]}
+,
+{ "name" : "samples/data_label_combo-bar-line.html", "id": 909, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 910, "size" : 1}
+,
+{ "name" : "venkat.thuka@gmail.com", "id": 911, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 912, "size" : 2}
+]}
+,
+{ "name" : "docs/05-Polar-Area-Chart.md", "id": 913, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 914, "size" : 1}
+,
+{ "name" : "wcatron@catrondevelopment.com", "id": 915, "size" : 2}
+,
+{ "name" : "daan.j.demeyer@gmail.com", "id": 916, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 917, "size" : 2}
+,
+{ "name" : "derek@derekperkins.com", "id": 918, "size" : 1}
+,
+{ "name" : "mutsmu@gmail.com", "id": 919, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 920, "size" : 10}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 921, "size" : 4}
+,
+{ "name" : "robert@rbecker.eu", "id": 922, "size" : 1}
+,
+{ "name" : "plus.vincchan@gmail.com", "id": 923, "size" : 1}
+]}
+,
+{ "name" : "src/Chart.Scale.js", "id": 924, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 925, "size" : 9}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 926, "size" : 18}
+]}
+,
+{ "name" : "samples/scatter-logX.html", "id": 927, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 928, "size" : 5}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 929, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 930, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 931, "size" : 8}
+,
+{ "name" : "robert@rbecker.eu", "id": 932, "size" : 1}
+]}
+,
+{ "name" : "src/charts/Chart.Bubble.js", "id": 933, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 934, "size" : 4}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 935, "size" : 3}
+,
+{ "name" : "robert@rbecker.eu", "id": 936, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 937, "size" : 6}
+]}
+,
+{ "name" : "samples/playground.html", "id": 938, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 939, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 940, "size" : 1}
+]}
+,
+{ "name" : "src/controllers/controller.scatter.js", "id": 941, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 942, "size" : 1}
+,
+{ "name" : "derek@derekperkins.com", "id": 943, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 944, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 945, "size" : 1}
+]}
+,
+{ "name" : "src/controllers/controller.doughnut.js", "id": 946, "children" : [
+{ "name" : "michael.dehoog@gmail.com", "id": 947, "size" : 2}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 948, "size" : 19}
+,
+{ "name" : "derek@derekperkins.com", "id": 949, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 950, "size" : 17}
+,
+{ "name" : "pwavg@users.noreply.github.com", "id": 951, "size" : 1}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 952, "size" : 4}
+,
+{ "name" : "mathiask@hotmail.de", "id": 953, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 954, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 955, "size" : 26}
+]}
+,
+{ "name" : "src/Chart.Scale.Linear.js", "id": 956, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 957, "size" : 4}
+]}
+,
+{ "name" : "src/Chart.Line.js", "id": 958, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 959, "size" : 1}
+,
+{ "name" : "e.e.mikula@gmail.com", "id": 960, "size" : 1}
+,
+{ "name" : "pjvilloud-bitbucket@yahoo.fr", "id": 961, "size" : 1}
+,
+{ "name" : "eric@ericjperry.com", "id": 962, "size" : 1}
+,
+{ "name" : "fntneves@gmail.com", "id": 963, "size" : 1}
+,
+{ "name" : "vanessau@cse.unsw.edu.au", "id": 964, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 965, "size" : 20}
+,
+{ "name" : "cool_bombom@hotmail.com", "id": 966, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 967, "size" : 11}
+,
+{ "name" : "amir.aharoni@mail.huji.ac.il", "id": 968, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 969, "size" : 7}
+,
+{ "name" : "github.com@phor.net", "id": 970, "size" : 3}
+,
+{ "name" : "msmiley@alumni.rice.edu", "id": 971, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 972, "size" : 13}
+,
+{ "name" : "cleggmatt@gmail.com", "id": 973, "size" : 1}
+]}
+,
+{ "name" : "test/core.scaleService.tests.js", "id": 974, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 975, "size" : 1}
+,
+{ "name" : "derek@derekperkins.com", "id": 976, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 977, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 978, "size" : 6}
+,
+{ "name" : "robert@rbecker.eu", "id": 979, "size" : 1}
+]}
+,
+{ "name" : "samples/line-logarithmic.html", "id": 980, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 981, "size" : 6}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 982, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 983, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 984, "size" : 8}
+,
+{ "name" : "robert@rbecker.eu", "id": 985, "size" : 1}
+]}
+,
+{ "name" : "src/chart.js", "id": 986, "children" : [
+{ "name" : "zachary@panzarino.com", "id": 987, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 988, "size" : 5}
+,
+{ "name" : "me@jakesyl.com", "id": 989, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 990, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 991, "size" : 1}
+]}
+,
+{ "name" : "samples/line-legend.html", "id": 992, "children" : [
+{ "name" : "jannis.achstetter@schneider-electric.com", "id": 993, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 994, "size" : 5}
+,
+{ "name" : "derek@derekperkins.com", "id": 995, "size" : 1}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 996, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 997, "size" : 3}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 998, "size" : 4}
+,
+{ "name" : "robert@rbecker.eu", "id": 999, "size" : 1}
+]}
+,
+{ "name" : "test/scale.linear.tests.js", "id": 1000, "children" : [
+{ "name" : "tore@lervik.com", "id": 1001, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 1002, "size" : 11}
+,
+{ "name" : "nancypanger@gmail.com", "id": 1003, "size" : 1}
+,
+{ "name" : "mattias@lyckne.se", "id": 1004, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1005, "size" : 27}
+,
+{ "name" : "robert@rbecker.eu", "id": 1006, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1007, "size" : 42}
+]}
+,
+{ "name" : "karma.conf.ci.js", "id": 1008, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1009, "size" : 3}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1010, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1011, "size" : 5}
+]}
+,
+{ "name" : "site/assets/effects.js", "id": 1012, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 1013, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 1014, "size" : 2}
+]}
+,
+{ "name" : "LICENSE.md", "id": 1015, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 1016, "size" : 1}
+,
+{ "name" : "apang@softwaredevelopment.ca", "id": 1017, "size" : 1}
+,
+{ "name" : "zachary@panzarino.com", "id": 1018, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 1019, "size" : 1}
+,
+{ "name" : "kara.erickson3@gmail.com", "id": 1020, "size" : 2}
+,
+{ "name" : "hello@nickdownie.com", "id": 1021, "size" : 4}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1022, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1023, "size" : 1}
+]}
+,
+{ "name" : "docs/02-Bar-Chart.md", "id": 1024, "children" : [
+{ "name" : "johnheroy@gmail.com", "id": 1025, "size" : 1}
+,
+{ "name" : "niels@kreable.com", "id": 1026, "size" : 1}
+,
+{ "name" : "fntneves@gmail.com", "id": 1027, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 1028, "size" : 3}
+,
+{ "name" : "johnheroy@users.noreply.github.com", "id": 1029, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 1030, "size" : 3}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1031, "size" : 2}
+,
+{ "name" : "github.com@phor.net", "id": 1032, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1033, "size" : 1}
+]}
+,
+{ "name" : "docs/07-Advanced.md", "id": 1034, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1035, "size" : 2}
+,
+{ "name" : "HuwSy@users.noreply.github.com", "id": 1036, "size" : 1}
+,
+{ "name" : "mutsmu@gmail.com", "id": 1037, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1038, "size" : 10}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1039, "size" : 4}
+,
+{ "name" : "robert@rbecker.eu", "id": 1040, "size" : 1}
+]}
+,
+{ "name" : "test/controller.radar.tests.js", "id": 1041, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1042, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1043, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1044, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 1045, "size" : 1}
+]}
+,
+{ "name" : "src/Chart.Core.js", "id": 1046, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 1047, "size" : 3}
+,
+{ "name" : "dima117a@gmail.com", "id": 1048, "size" : 2}
+,
+{ "name" : "jakub.suder@gmail.com", "id": 1049, "size" : 2}
+,
+{ "name" : "fntneves@gmail.com", "id": 1050, "size" : 1}
+,
+{ "name" : "steven.m.wexler@gmail.com", "id": 1051, "size" : 1}
+,
+{ "name" : "rahul@rvaidya.com", "id": 1052, "size" : 3}
+,
+{ "name" : "Miosss@users.noreply.github.com", "id": 1053, "size" : 2}
+,
+{ "name" : "ryo_on@yk.rim.or.jp", "id": 1054, "size" : 1}
+,
+{ "name" : "tommy@infinitry.net", "id": 1055, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 1056, "size" : 48}
+,
+{ "name" : "derek@derekperkins.com", "id": 1057, "size" : 1}
+,
+{ "name" : "nils@script-solution.de", "id": 1058, "size" : 1}
+,
+{ "name" : "me@aaron-miller.me", "id": 1059, "size" : 1}
+,
+{ "name" : "brett.bukowski@gmail.com", "id": 1060, "size" : 1}
+,
+{ "name" : "bjornar.fjar@gmail.com", "id": 1061, "size" : 1}
+,
+{ "name" : "jakesyl@gmail.com", "id": 1062, "size" : 3}
+,
+{ "name" : "hello@nickdownie.com", "id": 1063, "size" : 26}
+,
+{ "name" : "michael.srocka@gmail.com", "id": 1064, "size" : 1}
+,
+{ "name" : "amir.aharoni@mail.huji.ac.il", "id": 1065, "size" : 1}
+,
+{ "name" : "dcunniff@gmail.com", "id": 1066, "size" : 3}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1067, "size" : 22}
+,
+{ "name" : "chandruxp@gmail.com", "id": 1068, "size" : 1}
+,
+{ "name" : "mbrevda@gmail.com", "id": 1069, "size" : 1}
+,
+{ "name" : "github.com@phor.net", "id": 1070, "size" : 6}
+,
+{ "name" : "j.nicklas@sinnerschrader.com", "id": 1071, "size" : 2}
+,
+{ "name" : "rylan@wattpad.com", "id": 1072, "size" : 1}
+,
+{ "name" : "jtblin@gmail.com", "id": 1073, "size" : 1}
+,
+{ "name" : "thePanz@users.noreply.github.com", "id": 1074, "size" : 1}
+,
+{ "name" : "aburke@bitflood.org", "id": 1075, "size" : 2}
+,
+{ "name" : "cleggmatt@gmail.com", "id": 1076, "size" : 2}
+,
+{ "name" : "michael.arnauts@gmail.com", "id": 1077, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1078, "size" : 46}
+]}
+,
+{ "name" : "samples/line-stacked-area.html", "id": 1079, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1080, "size" : 4}
+,
+{ "name" : "derek@derekperkins.com", "id": 1081, "size" : 1}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 1082, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1083, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1084, "size" : 4}
+,
+{ "name" : "robert@rbecker.eu", "id": 1085, "size" : 1}
+]}
+,
+{ "name" : "src/controllers/controller.bar.js", "id": 1086, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1087, "size" : 19}
+,
+{ "name" : "derek@derekperkins.com", "id": 1088, "size" : 1}
+,
+{ "name" : "mail@john-walker.co.uk", "id": 1089, "size" : 1}
+,
+{ "name" : "mutsmu@gmail.com", "id": 1090, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1091, "size" : 14}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 1092, "size" : 3}
+,
+{ "name" : "mathiask@hotmail.de", "id": 1093, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 1094, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1095, "size" : 24}
+]}
+,
+{ "name" : "test/core.helpers.tests.js", "id": 1096, "children" : [
+{ "name" : "tom@tomduncalf.com", "id": 1097, "size" : 1}
+,
+{ "name" : "tore@lervik.com", "id": 1098, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 1099, "size" : 7}
+,
+{ "name" : "nancypanger@gmail.com", "id": 1100, "size" : 1}
+,
+{ "name" : "mattias@lyckne.se", "id": 1101, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1102, "size" : 18}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 1103, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 1104, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1105, "size" : 16}
+]}
+,
+{ "name" : "doughnut.html", "id": 1106, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 1107, "size" : 2}
+]}
+,
+{ "name" : "polarArea.html", "id": 1108, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 1109, "size" : 2}
+]}
+,
+{ "name" : "src/Chart.Animation.js", "id": 1110, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1111, "size" : 2}
+]}
+,
+{ "name" : "src/core/core.element.js", "id": 1112, "children" : [
+{ "name" : "posgarou@gmail.com", "id": 1113, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 1114, "size" : 8}
+,
+{ "name" : "derek@derekperkins.com", "id": 1115, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1116, "size" : 3}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 1117, "size" : 1}
+,
+{ "name" : "mathiask@hotmail.de", "id": 1118, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 1119, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1120, "size" : 3}
+]}
+,
+{ "name" : "samples/pie.html", "id": 1121, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 1122, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 1123, "size" : 12}
+,
+{ "name" : "derek@derekperkins.com", "id": 1124, "size" : 1}
+,
+{ "name" : "hello@nickdownie.com", "id": 1125, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1126, "size" : 1}
+,
+{ "name" : "github.com@phor.net", "id": 1127, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1128, "size" : 4}
+]}
+,
+{ "name" : "samples/doughnut.color.html", "id": 1129, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1130, "size" : 3}
+,
+{ "name" : "cmweiss@gmail.com", "id": 1131, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1132, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1133, "size" : 1}
+]}
+,
+{ "name" : "pie.html", "id": 1134, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 1135, "size" : 2}
+]}
+,
+{ "name" : "src/_charts/chart.line.js", "id": 1136, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1137, "size" : 2}
+]}
+,
+{ "name" : "src/_charts/chart.bar.js", "id": 1138, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1139, "size" : 3}
+]}
+,
+{ "name" : "samples/line.html", "id": 1140, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 1141, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 1142, "size" : 27}
+,
+{ "name" : "derek@derekperkins.com", "id": 1143, "size" : 2}
+,
+{ "name" : "hello@nickdownie.com", "id": 1144, "size" : 2}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 1145, "size" : 3}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1146, "size" : 7}
+,
+{ "name" : "github.com@phor.net", "id": 1147, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1148, "size" : 21}
+,
+{ "name" : "robert@rbecker.eu", "id": 1149, "size" : 1}
+]}
+,
+{ "name" : "nbproject/project.properties", "id": 1150, "children" : [
+{ "name" : "robert@rbecker.eu", "id": 1151, "size" : 2}
+]}
+,
+{ "name" : ".eslintrc", "id": 1152, "children" : [
+{ "name" : "evert.timberg+github@gmail.com", "id": 1153, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1154, "size" : 2}
+]}
+,
+{ "name" : "test/defaultConfig.tests.js", "id": 1155, "children" : [
+{ "name" : "jannis.achstetter@schneider-electric.com", "id": 1156, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 1157, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1158, "size" : 4}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1159, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 1160, "size" : 1}
+]}
+,
+{ "name" : "docs/04-Radar-Chart.md", "id": 1161, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 1162, "size" : 1}
+,
+{ "name" : "wcatron@catrondevelopment.com", "id": 1163, "size" : 3}
+,
+{ "name" : "daan.j.demeyer@gmail.com", "id": 1164, "size" : 4}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 1165, "size" : 2}
+,
+{ "name" : "mutsmu@gmail.com", "id": 1166, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1167, "size" : 11}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1168, "size" : 4}
+,
+{ "name" : "robert@rbecker.eu", "id": 1169, "size" : 1}
+]}
+,
+{ "name" : "src/scales/scale.logarithmic.js", "id": 1170, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1171, "size" : 14}
+,
+{ "name" : "mattias@lyckne.se", "id": 1172, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1173, "size" : 9}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 1174, "size" : 4}
+,
+{ "name" : "robert@rbecker.eu", "id": 1175, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1176, "size" : 23}
+]}
+,
+{ "name" : "samples/bubble.html", "id": 1177, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1178, "size" : 4}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 1179, "size" : 2}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1180, "size" : 4}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1181, "size" : 3}
+,
+{ "name" : "robert@rbecker.eu", "id": 1182, "size" : 1}
+]}
+,
+{ "name" : "src/core/core.legend.js", "id": 1183, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1184, "size" : 8}
+,
+{ "name" : "derek@derekperkins.com", "id": 1185, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1186, "size" : 6}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 1187, "size" : 2}
+,
+{ "name" : "robert@rbecker.eu", "id": 1188, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1189, "size" : 22}
+]}
+,
+{ "name" : "test/core.layoutService.tests.js", "id": 1190, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1191, "size" : 2}
+,
+{ "name" : "derek@derekperkins.com", "id": 1192, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1193, "size" : 2}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 1194, "size" : 2}
+,
+{ "name" : "robert@rbecker.eu", "id": 1195, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1196, "size" : 7}
+]}
+,
+{ "name" : "src/elements/element.rectangle.js", "id": 1197, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1198, "size" : 10}
+,
+{ "name" : "derek@derekperkins.com", "id": 1199, "size" : 1}
+,
+{ "name" : "mutsmu@gmail.com", "id": 1200, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1201, "size" : 3}
+,
+{ "name" : "robert@rbecker.eu", "id": 1202, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1203, "size" : 6}
+]}
+,
+{ "name" : "samples/scatter-multi-axis.html", "id": 1204, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1205, "size" : 4}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 1206, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1207, "size" : 4}
+,
+{ "name" : "jkalina@redhat.com", "id": 1208, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1209, "size" : 9}
+]}
+,
+{ "name" : "src/charts/chart.rectangularbase.js", "id": 1210, "children" : [
+{ "name" : "evert.timberg@gmail.com", "id": 1211, "size" : 3}
+]}
+,
+{ "name" : "samples/bar-multi-axis.html", "id": 1212, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1213, "size" : 6}
+,
+{ "name" : "derek@derekperkins.com", "id": 1214, "size" : 1}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 1215, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1216, "size" : 4}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1217, "size" : 9}
+,
+{ "name" : "robert@rbecker.eu", "id": 1218, "size" : 1}
+]}
+,
+{ "name" : "samples/radar.html", "id": 1219, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 1220, "size" : 1}
+,
+{ "name" : "wcatron@catrondevelopment.com", "id": 1221, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 1222, "size" : 16}
+,
+{ "name" : "derek@derekperkins.com", "id": 1223, "size" : 2}
+,
+{ "name" : "hello@nickdownie.com", "id": 1224, "size" : 2}
+,
+{ "name" : "hamalainen.ville.p@gmail.com", "id": 1225, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1226, "size" : 4}
+,
+{ "name" : "github.com@phor.net", "id": 1227, "size" : 1}
+,
+{ "name" : "jkalina@redhat.com", "id": 1228, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1229, "size" : 15}
+,
+{ "name" : "robert@rbecker.eu", "id": 1230, "size" : 1}
+]}
+,
+{ "name" : ".travis.yml", "id": 1231, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1232, "size" : 5}
+,
+{ "name" : "hello@nickdownie.com", "id": 1233, "size" : 2}
+,
+{ "name" : "jakesyl@gmail.com", "id": 1234, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1235, "size" : 9}
+,
+{ "name" : "github.com@phor.net", "id": 1236, "size" : 2}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1237, "size" : 5}
+]}
+,
+{ "name" : "docs/02-Line-Chart.md", "id": 1238, "children" : [
+{ "name" : "jannis.achstetter@schneider-electric.com", "id": 1239, "size" : 2}
+,
+{ "name" : "nick@nickdownie.com", "id": 1240, "size" : 1}
+,
+{ "name" : "wcatron@catrondevelopment.com", "id": 1241, "size" : 2}
+,
+{ "name" : "daan.j.demeyer@gmail.com", "id": 1242, "size" : 2}
+,
+{ "name" : "tkammyz@gmail.com", "id": 1243, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 1244, "size" : 2}
+,
+{ "name" : "coolshanth94@gmail.com", "id": 1245, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1246, "size" : 19}
+,
+{ "name" : "jamie@jamiepenney.co.nz", "id": 1247, "size" : 2}
+,
+{ "name" : "mathiask@hotmail.de", "id": 1248, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 1249, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1250, "size" : 8}
+]}
+,
+{ "name" : "docs/08-Notes.md", "id": 1251, "children" : [
+{ "name" : "nick@nickdownie.com", "id": 1252, "size" : 2}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 1253, "size" : 2}
+,
+{ "name" : "hello@nickdownie.com", "id": 1254, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1255, "size" : 2}
+,
+{ "name" : "plus.vincchan@gmail.com", "id": 1256, "size" : 1}
+]}
+,
+{ "name" : "src/_charts/chart.radar.js", "id": 1257, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1258, "size" : 2}
+]}
+,
+{ "name" : "src/core/core.animation.js", "id": 1259, "children" : [
+{ "name" : "tannerlinsley@gmail.com", "id": 1260, "size" : 9}
+,
+{ "name" : "derek@derekperkins.com", "id": 1261, "size" : 1}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1262, "size" : 3}
+,
+{ "name" : "simonbrunel@users.noreply.github.com", "id": 1263, "size" : 1}
+,
+{ "name" : "robert@rbecker.eu", "id": 1264, "size" : 1}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1265, "size" : 5}
+]}
+,
+{ "name" : "src/Chart.Doughnut.js", "id": 1266, "children" : [
+{ "name" : "chasd00@gmail.com", "id": 1267, "size" : 1}
+,
+{ "name" : "e.e.mikula@gmail.com", "id": 1268, "size" : 1}
+,
+{ "name" : "vanessau@cse.unsw.edu.au", "id": 1269, "size" : 1}
+,
+{ "name" : "bryan@internalfx.com", "id": 1270, "size" : 1}
+,
+{ "name" : "dcochrum@sonnysdirect.com", "id": 1271, "size" : 1}
+,
+{ "name" : "tannerlinsley@gmail.com", "id": 1272, "size" : 19}
+,
+{ "name" : "hello@nickdownie.com", "id": 1273, "size" : 2}
+,
+{ "name" : "bendxn@gmail.com", "id": 1274, "size" : 3}
+,
+{ "name" : "cmweiss@gmail.com", "id": 1275, "size" : 8}
+,
+{ "name" : "dcunniff@gmail.com", "id": 1276, "size" : 3}
+,
+{ "name" : "evert.timberg+github@gmail.com", "id": 1277, "size" : 6}
+,
+{ "name" : "github.com@phor.net", "id": 1278, "size" : 4}
+,
+{ "name" : "evert.timberg@gmail.com", "id": 1279, "size" : 6}
+]}
+]}

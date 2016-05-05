@@ -1,0 +1,191 @@
+{"name": "d3", "children": [
+{"name": "dist", "children": [
+{"name": "Chart.bundle.js", "size": 428486, "nbChanges": 138416,"nbCommits": 19}
+,
+{"name": "Chart.bundle.min.js", "size": 201469, "nbChanges": 267,"nbCommits": 18}
+,
+{"name": "Chart.js", "size": 309303, "nbChanges": 176519,"nbCommits": 22}
+,
+{"name": "Chart.min.js", "size": 160898, "nbChanges": 197,"nbCommits": 18}
+]}
+,
+{"name": "samples", "children": [
+{"name": "bar.html", "size": 5333, "nbChanges": 1491,"nbCommits": 66}
+,
+{"name": "bubble.html", "size": 6706, "nbChanges": 1062,"nbCommits": 14}
+,
+{"name": "doughnut.html", "size": 5291, "nbChanges": 1237,"nbCommits": 45}
+,
+{"name": "line.html", "size": 8129, "nbChanges": 1710,"nbCommits": 65}
+,
+{"name": "pie.html", "size": 3849, "nbChanges": 844,"nbCommits": 22}
+,
+{"name": "radar.html", "size": 4526, "nbChanges": 966,"nbCommits": 45}
+,
+{"name": "scatter.html", "size": 6038, "nbChanges": 1159,"nbCommits": 20}
+]}
+,
+{"name": "src", "children": [
+{"name": "chart.js", "size": 1562, "nbChanges": 264,"nbCommits": 10}
+]}
+,
+{"name": "src", "children": [
+{"name": "charts", "children": [
+{"name": "Chart.Bar.js", "size": 160, "nbChanges": 91,"nbCommits": 8}
+,
+{"name": "Chart.Bubble.js", "size": 165, "nbChanges": 323,"nbCommits": 14}
+,
+{"name": "Chart.Doughnut.js", "size": 170, "nbChanges": 246,"nbCommits": 23}
+,
+{"name": "Chart.Line.js", "size": 162, "nbChanges": 93,"nbCommits": 9}
+,
+{"name": "Chart.PolarArea.js", "size": 172, "nbChanges": 246,"nbCommits": 23}
+,
+{"name": "Chart.Radar.js", "size": 312, "nbChanges": 160,"nbCommits": 17}
+,
+{"name": "Chart.Scatter.js", "size": 989, "nbChanges": 485,"nbCommits": 14}
+]}
+]}
+,
+{"name": "src", "children": [
+{"name": "controllers", "children": [
+{"name": "controller.bar.js", "size": 11006, "nbChanges": 4985,"nbCommits": 65}
+,
+{"name": "controller.bubble.js", "size": 6724, "nbChanges": 1151,"nbCommits": 20}
+,
+{"name": "controller.doughnut.js", "size": 12185, "nbChanges": 2914,"nbCommits": 73}
+,
+{"name": "controller.line.js", "size": 12405, "nbChanges": 4723,"nbCommits": 70}
+,
+{"name": "controller.polarArea.js", "size": 9678, "nbChanges": 2498,"nbCommits": 61}
+,
+{"name": "controller.radar.js", "size": 9837, "nbChanges": 3260,"nbCommits": 43}
+]}
+]}
+,
+{"name": "src", "children": [
+{"name": "core", "children": [
+{"name": "core.animation.js", "size": 4109, "nbChanges": 1320,"nbCommits": 20}
+,
+{"name": "core.controller.js", "size": 18442, "nbChanges": 8057,"nbCommits": 143}
+,
+{"name": "core.datasetController.js", "size": 2055, "nbChanges": 708,"nbCommits": 11}
+,
+{"name": "core.element.js", "size": 2476, "nbChanges": 779,"nbCommits": 19}
+,
+{"name": "core.helpers.js", "size": 28873, "nbChanges": 17293,"nbCommits": 104}
+,
+{"name": "core.js", "size": 3363, "nbChanges": 8643,"nbCommits": 59}
+,
+{"name": "core.layoutService.js", "size": 10827, "nbChanges": 3923,"nbCommits": 20}
+,
+{"name": "core.legend.js", "size": 10364, "nbChanges": 4145,"nbCommits": 40}
+,
+{"name": "core.plugin.js", "size": 1266, "nbChanges": 125,"nbCommits": 6}
+,
+{"name": "core.scale.js", "size": 24593, "nbChanges": 9577,"nbCommits": 113}
+,
+{"name": "core.scaleService.js", "size": 1259, "nbChanges": 2201,"nbCommits": 20}
+,
+{"name": "core.title.js", "size": 5091, "nbChanges": 2283,"nbCommits": 16}
+,
+{"name": "core.tooltip.js", "size": 19612, "nbChanges": 9944,"nbCommits": 93}
+]}
+]}
+,
+{"name": "src", "children": [
+{"name": "elements", "children": [
+{"name": "element.arc.js", "size": 2460, "nbChanges": 820,"nbCommits": 18}
+,
+{"name": "element.line.js", "size": 5216, "nbChanges": 2794,"nbCommits": 39}
+,
+{"name": "element.point.js", "size": 4522, "nbChanges": 1627,"nbCommits": 24}
+,
+{"name": "element.rectangle.js", "size": 2476, "nbChanges": 1074,"nbCommits": 22}
+]}
+]}
+,
+{"name": "src", "children": [
+{"name": "scales", "children": [
+{"name": "scale.category.js", "size": 2681, "nbChanges": 3921,"nbCommits": 66}
+,
+{"name": "scale.linear.js", "size": 9079, "nbChanges": 8941,"nbCommits": 116}
+,
+{"name": "scale.logarithmic.js", "size": 6262, "nbChanges": 5173,"nbCommits": 52}
+,
+{"name": "scale.radialLinear.js", "size": 17064, "nbChanges": 6249,"nbCommits": 70}
+,
+{"name": "scale.time.js", "size": 13371, "nbChanges": 6548,"nbCommits": 83}
+]}
+]}
+,
+{"name": "test", "children": [
+{"name": "controller.bar.tests.js", "size": 11447, "nbChanges": 8299,"nbCommits": 37}
+,
+{"name": "controller.bubble.tests.js", "size": 9979, "nbChanges": 4980,"nbCommits": 6}
+,
+{"name": "controller.doughnut.tests.js", "size": 10351, "nbChanges": 3330,"nbCommits": 28}
+,
+{"name": "controller.line.tests.js", "size": 13221, "nbChanges": 15005,"nbCommits": 46}
+,
+{"name": "controller.polarArea.tests.js", "size": 8890, "nbChanges": 3136,"nbCommits": 6}
+,
+{"name": "controller.radar.tests.js", "size": 14031, "nbChanges": 3672,"nbCommits": 5}
+,
+{"name": "core.element.tests.js", "size": 1284, "nbChanges": 180,"nbCommits": 4}
+,
+{"name": "core.helpers.tests.js", "size": 17492, "nbChanges": 3087,"nbCommits": 47}
+,
+{"name": "core.layoutService.tests.js", "size": 7258, "nbChanges": 3166,"nbCommits": 15}
+,
+{"name": "core.legend.tests.js", "size": 6297, "nbChanges": 853,"nbCommits": 8}
+,
+{"name": "core.plugin.tests.js", "size": 1083, "nbChanges": 88,"nbCommits": 3}
+,
+{"name": "core.title.tests.js", "size": 3954, "nbChanges": 429,"nbCommits": 4}
+,
+{"name": "defaultConfig.tests.js", "size": 6577, "nbChanges": 1148,"nbCommits": 8}
+,
+{"name": "element.arc.tests.js", "size": 3515, "nbChanges": 704,"nbCommits": 4}
+,
+{"name": "element.line.tests.js", "size": 19115, "nbChanges": 5188,"nbCommits": 11}
+,
+{"name": "element.point.tests.js", "size": 9346, "nbChanges": 1946,"nbCommits": 10}
+,
+{"name": "element.rectangle.tests.js", "size": 6751, "nbChanges": 1161,"nbCommits": 9}
+,
+{"name": "mockContext.js", "size": 6168, "nbChanges": 727,"nbCommits": 24}
+,
+{"name": "scale.category.tests.js", "size": 9199, "nbChanges": 1222,"nbCommits": 33}
+,
+{"name": "scale.linear.tests.js", "size": 16481, "nbChanges": 22664,"nbCommits": 85}
+,
+{"name": "scale.logarithmic.tests.js", "size": 12747, "nbChanges": 9487,"nbCommits": 49}
+,
+{"name": "scale.radialLinear.tests.js", "size": 10278, "nbChanges": 4760,"nbCommits": 40}
+,
+{"name": "scale.time.tests.js", "size": 10131, "nbChanges": 2020,"nbCommits": 51}
+]}
+,
+{"name": "config.jshintrc", "size": 53, "nbChanges": 8,"nbCommits": 2}
+,
+{"name": "LICENSE.md", "size": 1082, "nbChanges": 34,"nbCommits": 12}
+,
+{"name": "CONTRIBUTING.md", "size": 3412, "nbChanges": 270,"nbCommits": 31}
+,
+{"name": "README.md", "size": 1689, "nbChanges": 397,"nbCommits": 64}
+,
+{"name": "karma.coverage.conf.js", "size": 860, "nbChanges": 195,"nbCommits": 9}
+,
+{"name": "karma.conf.ci.js", "size": 471, "nbChanges": 110,"nbCommits": 9}
+,
+{"name": "package.json", "size": 1407, "nbChanges": 603,"nbCommits": 79}
+,
+{"name": "karma.conf.js", "size": 261, "nbChanges": 61,"nbCommits": 9}
+,
+{"name": "bower.json", "size": 294, "nbChanges": 233,"nbCommits": 34}
+,
+{"name": "composer.json", "size": 547, "nbChanges": 104,"nbCommits": 4}
+,
+{"name": "gulpfile.js", "size": 5866, "nbChanges": 2879,"nbCommits": 98}
+]}

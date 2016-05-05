@@ -1,0 +1,99 @@
+# Extrait tous les commits
+for commit in `git log --abbrev-commit --oneline | cut -d' ' -f 1`; do git show --stat --pretty="format:" --no-color  $commit | grep '|' | sed 's/[-+|]//g;s/ \([^ ]*\)[ ]*\([0-9]*\)/\1,\2/g' ; done | sort > ../file.txt
+
+#### Affichage sous forme d'un graph des fichiers en fonction de leur complexité
+
+#
+# Fait la somme du nombre de lignes modifiées
+#
+awk -F, '{a[$1]+=$2;}END{for(i in a)print i", "a[i];}' ../file.txt
+
+#
+# Séparation des labels et des modifications pour la visualisation sous forme de barres graphes
+#
+awk -F, '{a[$1]+=1;}END{for(i in a)print "\""i"\",";}' ../file.txt | sort -n -r > ../res_nbofmodification_label.txt
+awk -F, '{a[$1]+=1;}END{for(i in a)print a[i]",";}' ../file.txt | sort -n -r > ../res_nbofmodification_data.txt
+
+# Récupératon du nombre de lignes
+find -type f -not -path '*/\.*' -exec ls -l {} \; | awk '{print $9","$5}' | sed 's/^\.\///g' | sort > ../size.txt
+
+# Fusion des fichiers CSV qui contiennent le nombre de lignes et les commits
+join -t , <(sort res_nbofmodification_sorted.txt) <(sort size.txt) > res_name_nbcommit_sizecommit_sizefile.txt
+
+# Formatte en JSON les données pour l'affichage
+gawk -F, -f parse_to_json.awk res_name_nbcommit_sizecommit_sizefile.txt > git_flare.json 
+
+###### Affichage des auteurs par fichier sous forme d'un treemap
+
+# Récupère le fichier modifié
+for commit in `git log --abbrev-commit --oneline | cut -d' ' -f 1`
+do 
+git show --stat --no-color $commit | egrep -e "\|" -e "Author"  | gawk -F  "\t" '{
+if(match($1, /Author: .*<(.*)>/ , arr)) { 
+author=arr[1]
+}else{
+match($1, / (.?*)[ ]*\| .*/, arr)
+name=arr[1]
+gsub(/[ \t]+$/, "", name)
+files[name]+=1
+}
+}
+END {
+for(f in files)
+print author"," f
+}
+'
+done > ../res_authors.txt
+
+# Aggrege
+awk -F, -f authors_aggreg.awk res_authors.txt > authors_flare.json
+
+
+#### Affichage des liens entre commit sous forme d'un hierarchical edge bundling 
+for commit in `git log --abbrev-commit --oneline | cut -d' ' -f 1`
+do 
+git show --stat --no-color $commit | egrep -e "\|" -e "Author"  
+done | gawk -F  "\t" '
+BEGIN {
+ nbEntry = 0
+  print "["
+}{
+  if(match($1, /Author: .*<(.*)>/ , arr)) { 
+    for(i = 1; i < nbEntry; i++) {
+	for(j=1;j <nbEntry; j++) {
+         if(i!=j){
+            file1=entry[i]
+            file2=entry[j]
+            correlation[i][j]+=1
+            correlation[j][i]+=1
+          }
+	}
+    }
+    nbEntry = 0
+  }else{
+    nbEntry++
+    match($1, / (.?*)[ ]*\| .*/, arr)
+    name=arr[1]
+    gsub(/[ \t]+$/, "", name)
+    entry[nbEntry] = name
+  }
+}
+END {
+  for(f in correlation) {
+    print "{ \"name\" : \""f"\", \"size\" : "10", \"imports\":["
+    first = 1
+    for(c in correlation[f]) {
+      if(first==1) {
+        first = 0
+      } else {
+        print ","
+      }
+     print "\""c"\""
+    }
+    print "}"
+  }
+  print "]"
+}
+'
+done > ../res_correlation_entre_commit.txt
+

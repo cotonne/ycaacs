@@ -1,0 +1,50 @@
+for commit in `git log --abbrev-commit --oneline | cut -d' ' -f 1`
+do 
+git show --stat --no-color $commit | egrep -e "\|" -e "Author"  
+done | gawk -F  "\t" '
+BEGIN {
+ nbEntry = 0
+  print "["
+}{
+  if(match($1, /Author: .*<(.*)>/ , arr)) { 
+    for(i = 1; i < nbEntry; i++) {
+	for(j=1;j <nbEntry; j++) {
+         if(i!=j){
+            file1=entry[i]
+            file2=entry[j]
+            correlation[file1][file2]+=1
+            correlation[file2][file1]+=1
+          }
+	}
+    }
+    nbEntry = 0
+  }else{
+    nbEntry++
+    match($1, / (.?*)[ ]*\| .*/, arr)
+    name=arr[1]
+    gsub(/[ \t]+$/, "", name)
+    entry[nbEntry] = name
+  }
+}
+END {
+  firstBlock = 1
+  for(f in correlation) {
+    if(firstBlock==1) {
+      firstBlock = 0
+    } else {
+      print ","
+    }
+    print "{ \"name\" : \""f"\", \"size\" : "10", \"imports\":["
+    first = 1
+    for(c in correlation[f]) {
+      if(first==1) {
+        first = 0
+      } else {
+        print ","
+      }
+     print "\""c"\""
+    }
+    print "]}"
+  }
+  print "]"
+}' > ../res_correlation_entre_commit.txt

@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>Report</title>
+</head>
+<body>
+<h1>Your project</h1>
+<h2>Complexity</h2>
+<h3>Repartition of modifications by file</h3>
+<p>
+This graph gives you an overview of the most updated files. 
+Head (most modified files) and tail(less modified files) should be investigated.
+</p>
+<iframe src="modifications_by_file.htm" height="1024" style="width:100%"></iframe>
+<h3>Repartition by package</h3>
+<p>
+This graph shows the size of each package.
+The red color indicates the amount of change. The more red the circle is, the more the file is modificated.
+</p>
+<iframe src="repartition_by_package.htm" height="1024" style="width:100%"></iframe>
+<h2>Modifications</h2>
+<h3>Modifications by file and author</h3>
+<p>With this graph, you can see how many people modify a file. 
+A file which is modified by one person :<br/>
+<ul>
+<li>Is easier to modify due to the fact that this modification has no impact on your teammate</li>
+<li>Is a potential pitfall because only person "owns" (understands) this file</li>
+</ul>
+<iframe src="modifications_by_file_and_author.htm" height="1024" style="width:100%"></iframe>
+<h3>Coupling modifications</h3>
+<p>
+A well-known code smell is shotgun surgery. When one file is update, you need to modify a set of files. This graph shows the temporal coupling.
+</p>
+<iframe src="coupling_modifications_by_file.htm" height="1024" style="width:100%"></iframe>
+</body>
+</html>

@@ -1,0 +1,117 @@
+#!/bin/bash
+
+usage() {
+  echo "Script to generate data visualization of your commit"
+  echo "$0 <your_git_dir>"
+  exit 0
+}
+
+if [ $# -ne 1 ]
+then
+  usage
+fi
+
+cd $(dirname $0)
+SCRIPT_DIR=$(pwd)
+SCRIPT_AGGREGE_AUTHOR=$SCRIPT_DIR/authors_aggreg.awk
+SCRIPT_GROUP_BY_PKG=$SCRIPT_DIR/parse_to_json.awk
+REPORT_ORIGIN=$SCRIPT_DIR/templates/
+GRAPHS=$(ls $REPORT_ORIGIN)
+BASENAME=$1
+
+DATA_DIR=$BASENAME/data
+EXISTING_FILES=$DATA_DIR/existing_files.csv
+GENERATED_COMMIT=$DATA_DIR/commits.csv
+COMMIT_BY_FILE=$DATA_DIR/commit_by_file.csv
+TREEMAP_AUTHORS=$DATA_DIR/authors_flare.json
+SIZE_AND_COMMIT_BY_PKG_AND_FILE=$DATA_DIR/git_flare.json
+
+###############################################################################
+#
+# Functions
+#
+###############################################################################
+
+extract_informations_on_existing_files() {
+  find -type f -not -path '*/\.*' -exec ls -l {} \; | awk '{print $9","$5}' | sed 's/^\.\///g' | sort > $EXISTING_FILES
+}
+
+extract_commits_from_repository() {
+  echo "author,file,add,delete" > $GENERATED_COMMIT
+  for commit in `git log --abbrev-commit --oneline | cut -d' ' -f 1`
+  do 
+    git show --stat --no-color $commit | egrep -e "\|" -e "Author"  | gawk -F  "\t" '
+{
+  if(match($1, /Author: .*<(.*)>/ , arr)) { 
+    author=arr[1]
+  }else{
+    match($1, / (.?*)[ ]*\| ([0-9]*) ([+]*)([-]*).*/, arr)
+    name=arr[1]
+    gsub(/[ \t]+$/, "", name)
+    mod_add[name]=length(arr[3])
+    mod_del[name]=length(arr[4])
+  }
+}
+END {
+  for(f in mod_add)
+    print author"," f","mod_add[f]","mod_del[f]
+}
+'
+done >> $GENERATED_COMMIT
+}
+
+aggrege_commit_by_file() {
+  echo "file,add,delete" > $COMMIT_BY_FILE
+  tail -n+2 $GENERATED_COMMIT | gawk -F "," '
+{
+  add[$2] += $3
+  del[$2] += $4
+}
+END {
+  for(f in add)
+    print f","add[f]","del[f]
+}
+' | sort >> $COMMIT_BY_FILE
+}
+
+aggrege_commit_by_pkg_and_file() {
+  # Récupératon du nombre de lignes
+  find -type f -not -path '*/\.*' -exec ls -l {} \; | awk '{print $9","$5}' | sed 's/^\.\///g' | sort > $DATA_DIR/size.csv
+
+  # Fusion des fichiers CSV qui contiennent le nombre de lignes et les commits
+  join -t , <(cat $COMMIT_BY_FILE) <(cat $DATA_DIR/size.csv) > $DATA_DIR/res_name_nbcommit_sizecommit_sizefile.csv
+
+  # Formatte en JSON les données pour l'affichage
+  gawk -F, -f $SCRIPT_GROUP_BY_PKG $DATA_DIR/res_name_nbcommit_sizecommit_sizefile.csv > $SIZE_AND_COMMIT_BY_PKG_AND_FILE
+
+}
+
+aggrege_and_modifications_by_author() {
+  awk -F, -f $SCRIPT_AGGREGE_AUTHOR $GENERATED_COMMIT > $TREEMAP_AUTHORS
+}
+
+
+copy_report() {
+  mkdir -p $DATA_DIR
+  for graph in $GRAPHS 
+  do
+    echo "Copying $REPORT_ORIGIN/$graph"
+    cp $REPORT_ORIGIN/$graph $DATA_DIR/
+    sed -i 's|#D3_DIR#|'"$SCRIPT_DIR"'|g' $DATA_DIR/$graph
+    echo "Updating $DATA_DIR/$graph"
+  done
+}
+
+###############################################################################
+#
+# Main poart
+#
+###############################################################################
+
+mkdir -p $DATA_DIR
+cd $BASENAME
+extract_commits_from_repository
+aggrege_commit_by_file
+extract_informations_on_existing_files
+aggrege_and_modifications_by_author
+copy_report
